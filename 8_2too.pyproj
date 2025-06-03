@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="obs.py" />
     <Compile Include="_8_2too.py" />
   </ItemGroup>
   <ItemGroup>
